@@ -1,2 +1,2 @@
 # .github
-*Community health files for the [@TrueLayer](https://github.com/truetayer) organization*
+*Community health files for the [@TrueLayer](https://github.com/truelayer) organization*
